@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "name": "story book",
+        "title": "Introduction to JavaScript",
+        "price": 19.99,
+        "author": "John Doe",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730452390~exp=1730455990~hmac=207f3020e024552624389709c5ea375a4a6e58f7b4a6b6bcb81180320c2846f2&w=740",
+        "category": "Free"
+    },
+    {
+        "id": "2",
+        "name": "programming book",
+        "title": "Advanced JavaScript",
+        "price": 24.99,
+        "author": "Jane Smith",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730452390~exp=1730455990~hmac=207f3020e024552624389709c5ea375a4a6e58f7b4a6b6bcb81180320c2846f2&w=740",
+        "category": "Paid"
+    },
+    {
+        "id": "3",
+        "name": "math book",
+        "title": "Mathematics for Everyone",
+        "price": 14.99,
+        "author": "Alice Johnson",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730452390~exp=1730455990~hmac=207f3020e024552624389709c5ea375a4a6e58f7b4a6b6bcb81180320c2846f2&w=740",
+        "category": "Free"
+    },
+    {
+        "id": "4",
+        "name": "science book",
+        "title": "The Science of Everything",
+        "price": 29.99,
+        "author": "Bob Brown",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730452390~exp=1730455990~hmac=207f3020e024552624389709c5ea375a4a6e58f7b4a6b6bcb81180320c2846f2&w=740",
+        "category": "Free"
+    },
+    {
+        "id": "5",
+        "name": "history book",
+        "title": "The History of Humanity",
+        "price": 12.99,
+        "author": "Charlie Wilson",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730452390~exp=1730455990~hmac=207f3020e024552624389709c5ea375a4a6e58f7b4a6b6bcb81180320c2846f2&w=740",
+        "category": "Free"
+    },
+    {
+        "id": "6",
+        "name": "geography book",
+        "title": "The Geography of the World",
+        "price": 21.99,
+        "author": "David Lee",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730452390~exp=1730455990~hmac=207f3020e024552624389709c5ea375a4a6e58f7b4a6b6bcb81180320c2846f2&w=740",
+        "category": "Paid"
+    },
+    {
+        "id": "7",
+        "name": "english book",
+        "title": "The English Language",
+        "price": 17.99,
+        "author": "Emily Davis",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730452390~exp=1730455990~hmac=207f3020e024552624389709c5ea375a4a6e58f7b4a6b6bcb81180320c2846f2&w=740",
+        "category": "Free"
+    },
+    {
+        "id": "8",
+        "name": "biology book",
+        "title": "The Biology of Life",
+        "price": 25.99,
+        "author": "Frank Miller",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1730452390~exp=1730455990~hmac=207f3020e024552624389709c5ea375a4a6e58f7b4a6b6bcb81180320c2846f2&w=740",
+        "category": "Paid"
+    }
+]
